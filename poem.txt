@@ -9,5 +9,6 @@ Indigo
 Unicorn
 Yellow
 Red
+Pony
 
-These are colors of the Rainbow and Unicorn.
+These are colors of the Rainbow,pony and Unicorn.
